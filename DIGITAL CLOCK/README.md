@@ -39,6 +39,8 @@ This project displays the current time in real-time and updates every second.
 ## 📸 Preview
 
 > Displays current system time in HH:MM:SS format
+> <img width="464" height="242" alt="image" src="https://github.com/user-attachments/assets/da4d59c3-2b6a-4c19-b044-502b6f6494b3" />
+
 
 ---
 
@@ -60,5 +62,6 @@ This project helps you understand:
 
 ### 👨‍💻 Author
 
-**Rock Devilson**  
+ 
 GitHub: https://github.com/DISHAN-cyber/Digital-clock
+
