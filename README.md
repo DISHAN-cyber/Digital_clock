@@ -34,7 +34,7 @@ This project displays the current time in real-time and updates every second.
 2. Open `index.html` in your browser  
 3. The digital clock will start automatically
 
-Live Demo →
+Live Demo → https://dcyberdigitalclock.netlify.app/
 ---
 
 ## 📸 Preview
